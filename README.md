@@ -4,7 +4,7 @@
 
 This was a project that I realized in collaboration with 2 fellow students for the course of "Methods and Models for Statistical Inference". 
 The project starts from the study of the dataset "Estimation of obesity levels based on eating habits and physical condition" whose link is:
-https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition <br/>
+https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition \
 
 Once we carried out preliminary analysis of linear correlation between the covariates of the dataset we divided the dataset into a subset for training and one for testing. 
 We have created 5 models with different covariate configurations.
