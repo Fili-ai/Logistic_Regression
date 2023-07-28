@@ -1,7 +1,7 @@
 # Logistic_Regression
 
 ### [ING]
-<span class="flag-icon flag-icon-sun"></span>
+
 This was a project that I realized in collaboration with 2 fellow students for the course of "Methods and Models for Statistical Inference". 
 The project starts from the study of the dataset "" whose link is:. 
 Once we carried out preliminary analysis of linear correlation between the covariates of the dataset we divided the dataset into a subset for training and one for testing. 
